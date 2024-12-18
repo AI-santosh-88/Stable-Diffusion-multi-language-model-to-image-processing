@@ -1,4 +1,4 @@
-## Project Title: #### Stable-Diffusion-multi-language-model-to-image-processing
+## Project Title: Stable-Diffusion-multi-language-model-to-image-processing
 
 ### Project Description:
 This project uses Stable Diffusion and Google Translate to create an image generation pipeline based on a text prompt. The primary goal of the project is to translate a text prompt into a desired language and use this translated text to generate an image. The image generation is performed using the Stable Diffusion model, a state-of-the-art deep learning model for generating high-quality images based on textual descriptions.
