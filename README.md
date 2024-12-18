@@ -30,3 +30,13 @@ The responsibilities in this project can be broken down into the following key c
 #### 6 Performance Optimization:
 * Optimize model performance, such as inference time and image quality, especially when working with large models like Stable Diffusion.
 Manage resources efficiently when running on a GPU or CPU.
+
+
+### Packages Used in the Project:
+##### 1. Google Translate
+##### 2. Diffusers (Stable Diffusion Model)
+##### 3. Transformers (Optional for Prompt Generation)
+##### 4. Torch (Deep Learning Framework)
+##### 5. Matplotlib (For Visualization)
+##### 6. Pandas and Numpy (Data Handling)
+##### 7. OpenCV (Optional for Image Manipulation)
